@@ -1,4 +1,4 @@
-package main.java.hello;
+package com.nkk.rest;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.SpringApplication;

@@ -1,4 +1,4 @@
-package main.java.hello;
+package com.nkk.rest.controller;
 
 public class Greeting {
 	private final long id;
